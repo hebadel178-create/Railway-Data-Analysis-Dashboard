@@ -6,7 +6,7 @@ An end-to-end Power BI data analysis project exploring railway ticket sales, pas
 ## 📊 Dashboard Pages
 
 ### 1. Time Analysis Dashboard
-<img width="1281" height="722" alt="Screenshot 2026-11-16 211056" src="https://github.com/user-attachments/assets/90c12cc2-5378-42bb-b58d-483e01174646" />
+<img width="1282" height="720" alt="Screenshot 2026-11-16 210919" src="https://github.com/user-attachments/assets/e9277e31-f0c1-43a0-b9bd-0e93454e17b8" />
 
 ### 2. Purchase Trends Dashboard
 <img width="1288" height="732" alt="Screenshot 2026-11-16 210845" src="https://github.com/user-attachments/assets/c2bd3f49-5aa5-44fb-906b-2c1bfb4e57c1" />
